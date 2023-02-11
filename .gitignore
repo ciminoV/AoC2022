@@ -1,0 +1,17 @@
+*.o
+*.a
+*.in
+*.m4
+*.log
+*.status
+
+.deps/
+configure
+configure~
+depcomp
+install-sh
+missing
+compile
+autom4te*
+Makefile
+ChangeLog
